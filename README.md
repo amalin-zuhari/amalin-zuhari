@@ -22,6 +22,10 @@ An innovative MERN-based mobile app designed to bridge volunteers with disaster 
 ### [Grocery Management System](https://github.com/amalin-zuhari/GroceryManagementSystem) 🛒
 Built during my Full Stack Developer Bootcamp, this system tracks inventory, manages shopping lists, and enables price comparisons for efficient grocery shopping.
 
+### Hansard+ 📝
+An AI-powered transcription system created to support parliamentary documentation by providing real-time, accurate transcriptions of proceedings. Hansard+ integrates speech recognition technologies with a user-friendly interface to streamline documentation, making it more accessible and manageable. Developed in collaboration with **MYStartup Hackathon**.
+
+
 ## 💻 Skills
 
 - **Front-End**: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS, Vite
@@ -42,7 +46,7 @@ Built during my Full Stack Developer Bootcamp, this system tracks inventory, man
 
 ## 🤝 Connect with Me
 
-- **LinkedIn**: [Amalin Zuhari](https://www.linkedin.com/in/amalin-zuhari)
+- **LinkedIn**: [Amalin Zuhari](https://www.linkedin.com/in/amalinzuhari)
 - **Portfolio**: [amalin-zuhari.github.io](https://amalin-zuhari.github.io)
 
 ---
