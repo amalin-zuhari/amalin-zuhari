@@ -47,7 +47,7 @@ An AI-powered transcription system created to support parliamentary documentatio
 ## 🤝 Connect with Me
 
 - **LinkedIn**: [Amalin Zuhari](https://www.linkedin.com/in/amalinzuhari)
-- **Portfolio**: [amalin-zuhari.github.io](https://amalin-zuhari.github.io)
+- **Portfolio**: [amalin-webportfolio]([https://amalin-zuhari.github.i](https://amalin-zuhari.github.io/amalin-webportfolio/)o)
 
 ---
 
