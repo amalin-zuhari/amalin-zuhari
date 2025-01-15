@@ -28,13 +28,11 @@ An AI-powered transcription system created to support parliamentary documentatio
 
 ## 💻 Skills
 
-- **Front-End**: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS, Vite
-- **Back-End**: Node.js, Express.js, PHP, Laravel
+- **Front-End**: HTML, CSS, JavaScript, React.js
+- **Back-End**: Node.js, Express.js
 - **Database**: MongoDB, MySQL
-- **DevOps**: Jenkins, Docker
 - **Version Control**: Git, GitHub
-- **Tools & Platforms**: Visual Studio Code, Google Cloud Platform, Tableau, PowerBI
-- **Languages**: JavaScript, Python, PHP, C++, Java
+- **Languages**: JavaScript, Python, PHP
 
 ## 📚 Currently Learning
 - **AngularJS** - Enhancing my skills to become versatile in front-end frameworks.
