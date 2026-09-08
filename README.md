@@ -5,7 +5,6 @@ I'm a Full Stack Developer with a passion for **Frontend Development** and **UI/
 ## 🌟 About Me
 
 - 🎓 **Degree**: Bachelor’s in Information Systems, focused on Intelligent Systems Engineering (First Class)
-- 💼 **Current Projects**: Developing a mobile app named [AidConnect](https://github.com/amalin-zuhari/AidConnect) for real-time disaster response, using the **MERN stack** (MongoDB, Express.js, React, Node.js)
 - 💻 **Languages & Frameworks**: JavaScript (React, Node.js, Express), PHP, Laravel, Python, Tailwind CSS, Vite, AngularJS, Docker, Git, and more.
 - 📈 **Technical Skills**: Full Stack Development, Database Management, Data Analysis, API Integration, Version Control, Responsive Design, and State Management.
 
@@ -15,9 +14,6 @@ I'm a Full Stack Developer with a passion for **Frontend Development** and **UI/
 - **MYStartup Hackathon Top 25** - Created an AI solution to assist with Malaysia’s parliamentary records management.
   
 ## 💼 Projects & Experience
-
-### [AidConnect](https://github.com/amalin-zuhari/AidConnect) 🌍
-An innovative MERN-based mobile app designed to bridge volunteers with disaster victims, providing real-time insights, reports, and updates.
 
 ### [Grocery Management System](https://github.com/amalin-zuhari/GroceryManagementSystem) 🛒
 Built during my Full Stack Developer Bootcamp, this system tracks inventory, manages shopping lists, and enables price comparisons for efficient grocery shopping.
